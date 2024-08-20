@@ -1,0 +1,62 @@
+[
+    {
+        "Professor": {
+            "nome": "Lucas"
+        },
+        "Assunto": "programaçâo",
+        "Alunos": [
+            {
+                "nome": "Claudio"
+            },
+            {
+                "nome": "Sofia"
+            },
+            {
+                "nome": "Vinicius"
+            },
+            {
+                "nome": "Eduardo"
+            }
+        ]
+    },
+    {
+        "Professor": {
+            "nome": "Bruno"
+        },
+        "Assunto": "Digital",
+        "Alunos": [
+            {
+                "nome": "Claudio"
+            },
+            {
+                "nome": "Bruna"
+            },
+            {
+                "nome": "Eduardo"
+            },
+            {
+                "nome": "Luana"
+            }
+        ]
+    },
+    {
+        "Professor": {
+            "nome": "Pedro"
+        },
+        "Assunto": "Fisica",
+        "Alunos": [
+            {
+                "nome": "Pedro"
+            },
+            {
+                "nome": "Gabriel"
+            },
+            {
+                "nome": "Bruna"
+            },
+            {
+                "nome": "Jorge"
+            }
+        ]
+    }
+]
